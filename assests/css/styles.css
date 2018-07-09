@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#head1{
+    background: url("images/hogwarts.jpg");
+   height: 150px;
+    
+}
+#heady{
+    color: rgba(255, 255, 255, 0.788);
+    margin-top: 10px;
+    
+}
+#smallheady{
+    color: rgba(255, 255, 255, 0.795);
+}
+#bodyimage{
+    background: url(images/funky-color.jpeg)
+}
+#tablebackround{
+
+}
+#inputs{
+
+}
+#table1{
+   color: rgba(245, 245, 245, 0.842);
+}
+.form-group{
+    color: rgba(245, 245, 245, 0.651);
+}
